@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress CssUnknownUnit -->
+<div>
+    <!-- parameters -->
+    <div style="
+		--conix-default:'COMPANY ABC 2026';
+		--conix-value:529900T8BM49AURSDO55;
+		--conix-period:'2025-01-01 2025-12-31';
+		--conix-scale:6;
+		--conix-unit:EUR;
+		--conix-transformation:'num-comma-decimal  date-month-day-year';
+		--conix-lang:en-GB;
+
+		--conix-TOC:'21px #2F5496 Open Sans';
+		--conix-Heading:'17px #2F5496 Open Sans';
+		--conix-Paragraph:'14px #000000 Open Sans';
+		--conix-Text:'14px #000000 Open Sans';
+
+		--conix-pagefooter:'10px #44546A Open Sans'">
+        This document has been prepared by the EFRAG Secretariat to illustrates the outline of the digital reporting with examples.
+        It accompanies the <i>Explanatory Note and Basis for Conclusions</i> but it is not part of the Draft ESRS Set 1 XBRL Taxonomy for consultation.
+        © EFRAG 2024 - <a href="https://efrag.org/Lab4">https://efrag.org/Lab4</a>
+    </div>
+
+    <!-- cover page -->
+    <span style="text-align:center; font-size:43px">COMPANY ABC 2026</span>
+    <span style="text-align:center; margin-top:8px; font-size:24px; color:#4472C4">Management and Sustainability Report</span>
+
+    <!-- content -->
+
+    <!-- Table of Contents entry -->
+
+    <div style="--conix-TOC:void">[BP-1] General basis for preparation of sustainability statements</div>
+    <div style="--conix-concept:DisclosureOfGeneralBasisForPreparationOfSustainabilityStatementExplanatory"></div>
+    <div style="--cenix-concept:BasisForPreparationOfSustainabilityStatement; --cenix-value:IndividualMember">
+        <div style="--cenix-concept:ScopeOfConsolidationOfConsolidatedSustainabilityStatementIsSameAsForFinancialStatements;
+			--cenix-value:fixed-true">
+            <div style="--cenix-concept:ScopeOfConsolidationOfConsolidatedSustainabilityStatementIsSameAsForFinancialStatements;
+			--cenix-value:fixed-true">
+                <div style="">Lorem ipsum dolor sit amet , consectetur adipiscing elit . Suspendisse egestas suscipit nibh , eu ultricies urna varius ac.
+                    Phasellus nulla nulla , malesuada vel augue non, ultrices pharetra arcu.</div>
+            </div>
+            <div style="">Lorem ipsum dolor sit amet , consectetur adipiscing elit . Suspendisse egestas suscipit nibh , eu ultricies urna varius ac.
+                Phasellus nulla nulla , malesuada vel augue non, ultrices pharetra arcu.</div>
+        </div>
+        <div style="--cenix-concept:DisclosureOfReasonsWhyScopeOfConsolidationIsNotSameAsForFinancialStatementsExplanatory">
+            <div style="">Praesent risus nisl , semper non imperdiet eget , volutpat vitae orci</div>
+        </div>
+        <div style="--cenix-concept:DisclosureOfReasonsWhyScopeOfConsolidationIsNotSameAsForFinancialStatementsExplanatoryAsExample">
+            <div style="">Praesent risus nisl , semper non imperdiet eget , volutpat vitae orci but the way it actually happend was different</div>
+        </div>
+    </div>
+    <div style="">Reporting period start date is <div style="--cenix-concept:ReportingPeriodStartDate">01 01 2025</div></div>
+    <div style="">Reporting period end date is <div style="--cenix-concept:ReportingPeriodEndDate">31 12 2025</div></div>
+    <!-- continued...... -->
+
+    <!-- Table of Contents entry -->
+    <div style="--conix-TOC:void">[BP-2] Disclosures in relation to specific circumstances</div>
+    <div style="--conix-Heading:void">Other medium- or long-term time horizons than defined in ESRS 1</div>
+    <div style="--conix-paragraph:void;
+		--cenix-concept:DescriptionOfBasisForPreparationOfMetricsThatIncludeUpstreamAndOrDownstreamValueChainDataEstimatedUsingIndirectSourcesExplanatory;
+		--cenix-dimensions:NameOfMetricsTypedAxis 0">
+        <div style="">Vivamus sit amet....</div>
+    </div>
+    <!-- continued...... -->
+</div>
+
+
+
